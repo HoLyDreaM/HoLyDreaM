@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="BANNER_LINKINI_BURAYA_KOY" alt="HoLyDreaM Banner" />
+  <img src="banner.png" alt="HoLyDreaM Banner" />
 </p>
 
 <h1 align="center">HoLyDreaM</h1>
