@@ -3,7 +3,6 @@
   <img src="banner.png" alt="HoLyDreaM Banner" />
 </p>
 
-<h1 align="center">HoLyDreaM</h1>
 <h3 align="center">Enterprise Systems Architect | ERP & E-Commerce Integrations | Advanced .NET Solutions</h3>
 
 ---
@@ -123,8 +122,3 @@ Ensuring stable communication between independent software systems.
 ✔ Long-Term Maintainability  
 
 ---
-
-## 📫 Contact
-
-- LinkedIn: 
-- Website: 
