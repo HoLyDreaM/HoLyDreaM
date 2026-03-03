@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="banners.png" alt="HoLyDreaM Banner" />
+  <img src="banner.png" alt="HoLyDreaM Banner" />
 </p>
 
 <h1 align="center">HoLyDreaM</h1>
