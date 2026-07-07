@@ -1,133 +1,164 @@
-<!-- ======================= BANNER ======================= -->
-<p align="center">
-  <img src="banner.png" alt="HoLyDreaM Banner" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,40:0F172A,70:1E3A8A,100:38BDF8&text=HoLyDreaM&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Enterprise%20Software%20Architect%20%7C%20Engineering%20Lead&descAlignY=60"/>
+
+# 🐺 HoLyDreaM
+
+### Enterprise Software Architect • Engineering Lead • AI • ERP • Manufacturing
+
+> **"I don't build applications. I build ecosystems."**
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=800&center=true&vCenter=true&width=980&lines=Enterprise+Architecture;Nebim+V3+%7C+Logo+ERP+%7C+Odoo;.NET+8+%7C+ML.NET+%7C+SQL+Server;Docker+%7C+Debian+%7C+Self-Hosted+GitHub+Runners;MCP+Servers+%7C+AI+Developer+Workflows;Algorithmic+Trading;Manufacturing+Digitalization"/>
 </p>
 
-<h1 align="center">HoLyDreaM</h1>
-<h3 align="center">Ecosystem Architect | Enterprise Integrations | Quant & Energy Systems</h3>
+</div>
 
 ---
 
-## 🚀 Professional Profile
+# 👋 About Me
 
-Designing scalable, performance-oriented systems across finance, enterprise software, manufacturing operations and energy domains.
+I architect software ecosystems where **ERP, manufacturing, commerce, AI and financial systems** operate as one platform.
 
-Building integrated digital ecosystems where:
+Instead of writing isolated applications, I design scalable systems that integrate people, processes and data.
 
-- Trading infrastructure
-- ERP platforms
-- B2B & E-commerce systems
-- Manufacturing workflows
-- Energy efficiency models
-- AI-driven optimization engines
-
-operate as a unified architecture.
-
-Core capability:  
-Architecting systems that communicate, scale and sustain.
+```text
+ERP ───────┐
+Commerce ──┼──► APIs ► SQL Server ► AI ► Automation
+Factory ───┤
+Trading ───┘
+```
 
 ---
 
-## 📈 Financial & Quant Infrastructure
+# 🚀 Enterprise Expertise
 
-- Multi-Exchange Trading Engines  
-- Real-Time Market Data Aggregation  
-- Risk & Execution Management Systems  
-- Signal Automation Pipelines  
-- Performance-Driven Backend Engineering  
+## ERP & Business Platforms
+- Nebim V3
+- Logo ERP
+- Odoo
+- Link ERP
+- ERP Integrations
+- Accounting & HR Systems
+- Warehouse & Inventory Automation
+- API Integration Projects
 
----
+## Commerce
+- OpenCart
+- nopCommerce
+- B2B Platforms
+- Marketplace Integrations
+- Inventory & Price Synchronization
+- Order Automation
 
-## 🏢 Enterprise & ERP Ecosystems
+## Manufacturing
+- Automotive Industry
+- Textile Industry
+- Validation Laboratories
+- Production Monitoring
+- KPI Dashboards
+- Workflow Automation
+- Process Digitalization
 
-- Nebim ERP Integrations  
-- Logo ERP & Logo B2B Development  
-- Link ERP Extensions  
-- Accounting & HR Integrations  
-- Law Office System Integrations  
-- ERP ↔ E-Commerce Synchronization  
+## Financial Engineering
+- Algorithmic Trading
+- Multi-Exchange Infrastructure
+- Signal Engines
+- Quantitative Analysis
+- Market Data Processing
 
-Designing secure, reliable and automated enterprise data flows.
-
----
-
-## 🛒 E-Commerce & Digital Commerce
-
-- Logo B2B Platforms  
-- Nebim ↔ OpenCart Integration  
-- Nebim ↔ NopCommerce Integration  
-- Real-Time Inventory & Pricing Sync  
-- Multi-System Order Automation  
-
----
-
-## 🏭 Manufacturing & Industrial Systems
-
-- Automotive Production Systems  
-- Textile Workflow Automation  
-- Mold & Industrial Process Monitoring  
-- KPI Dashboards & Reporting Infrastructure  
-- R&D Digitalization Frameworks  
-
----
-
-## ⚡ Energy & Sustainability Focus
-
-- Energy Efficiency Optimization Concepts  
-- Data-Driven Energy Monitoring Systems  
-- Hydro Energy Process Modeling Exposure  
-- Operational Efficiency & Resource Optimization  
-
-Applying structured software architecture to sustainable and energy-focused environments.
+## Artificial Intelligence
+- ML.NET
+- Decision Support Systems
+- Predictive Models
+- AI Automation
+- Intelligent Workflows
 
 ---
 
-## 🤖 AI & Intelligent Systems
+# ⚙️ Technology Stack
 
-- AI-Assisted Signal Optimization  
-- Data-Driven Decision Support Systems  
-- Automation & Predictive Modeling Concepts  
-- Process Optimization via Algorithmic Logic  
+### Languages
+<p><img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,html,css"/></p>
 
----
-
-## 🏗 Technical Foundation
-
-Backend:
-- C#
-- .NET 8 / .NET Core
-- ASP.NET MVC
+### Backend
+- .NET 8
+- ASP.NET Core
 - Web API
+- Worker Services
+- SignalR
+- REST APIs
 
-Data:
-- SQL Server (High-Volume Optimization)
-- Structured Performance Tuning
+### Database
+- SQL Server
+- Redis
 
-Architecture:
-- Clean Layered Design
-- Distributed System Concepts
-- Background Workers & Scheduling
-- API-Based Communication
-- System Reliability & Logging
+### Infrastructure
+<p><img src="https://skillicons.dev/icons?i=docker,debian,linux,github,githubactions,nginx,redis,vscode,visualstudio"/></p>
 
----
-
-## 🎯 Strategic Focus
-
-- Full Ecosystem Integration  
-- Enterprise-Grade Architecture  
-- Financial & Industrial Infrastructure  
-- AI-Enhanced System Optimization  
-- Energy-Efficient Digital Transformation  
+- Docker Compose
+- Debian Servers
+- Linux Administration
+- Self-Hosted GitHub Runners
+- CI/CD Pipelines
 
 ---
 
-## 📊 Philosophy
+# 🤖 AI Developer Environment
 
-✔ Systems Must Communicate  
-✔ Performance Is Engineered  
-✔ Data Integrity Is Non-Negotiable  
-✔ Sustainability Matters  
-✔ Architecture Outlives Code  
+### MCP Servers
+- Filesystem
+- Playwright
+- Context7
+- Fetch
+- Sequential Thinking
+- Custom AI Workflows
+
+### AI Tooling
+- Cursor IDE
+- GitHub Copilot
+- Prompt Engineering
+- AI Code Review
+- Automated Documentation
 
 ---
+
+# 🏗️ Architecture Principles
+
+```csharp
+Design();
+Integrate();
+Optimize();
+Automate();
+Scale();
+Repeat();
+```
+
+---
+
+# 🎯 Current Focus
+
+- Enterprise Architecture
+- ERP Integration Ecosystems
+- AI & ML.NET
+- MCP Servers
+- Docker & Debian Infrastructure
+- High Performance .NET
+- Manufacturing Digitalization
+- Trading Infrastructure
+
+---
+
+# 🐺 Philosophy
+
+> **Architecture Outlives Code**
+
+> **Performance Is Engineered**
+
+> **Automation Creates Freedom**
+
+<div align="center">
+
+### BUILD • CONNECT • AUTOMATE • SCALE
+
+</div>
