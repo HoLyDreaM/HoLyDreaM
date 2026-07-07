@@ -104,25 +104,6 @@ Trading ───┘
 
 ---
 
-# 🤖 AI Developer Environment
-
-### MCP Servers
-- Filesystem
-- Playwright
-- Context7
-- Fetch
-- Sequential Thinking
-- Custom AI Workflows
-
-### AI Tooling
-- Cursor IDE
-- GitHub Copilot
-- Prompt Engineering
-- AI Code Review
-- Automated Documentation
-
----
-
 # 🏗️ Architecture Principles
 
 ```csharp
