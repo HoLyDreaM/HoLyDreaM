@@ -4,13 +4,12 @@
 
 # 🐺 HoLyDreaM
 
-### Enterprise Software Architect • Engineering Lead • AI • ERP • Manufacturing
+### Enterprise Software Architect  
+**Engineering Lead • ERP Ecosystems • AI • Industrial Software • Financial Systems**
 
 > **"I don't build applications. I build ecosystems."**
 
-<p>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=800&center=true&vCenter=true&width=980&lines=Enterprise+Architecture;Nebim+V3+%7C+Logo+ERP+%7C+Odoo;.NET+8+%7C+ML.NET+%7C+SQL+Server;Docker+%7C+Debian+%7C+Self-Hosted+GitHub+Runners;MCP+Servers+%7C+AI+Developer+Workflows;Algorithmic+Trading;Manufacturing+Digitalization"/>
-</p>
 
 </div>
 
@@ -18,40 +17,47 @@
 
 # 👋 About Me
 
-I architect software ecosystems where **ERP, manufacturing, commerce, AI and financial systems** operate as one platform.
+I design **enterprise-grade software ecosystems** that connect ERP platforms, manufacturing operations, digital commerce, financial systems and AI into a single scalable architecture.
 
-Instead of writing isolated applications, I design scalable systems that integrate people, processes and data.
+My focus is not simply developing software, but engineering systems that remain reliable, maintainable and scalable for years.
 
 ```text
-ERP ───────┐
-Commerce ──┼──► APIs ► SQL Server ► AI ► Automation
-Factory ───┤
-Trading ───┘
+ERP ─────────┐
+Commerce ────┼──► APIs ► SQL Server ► AI ► Automation
+Factory ─────┤
+Trading ─────┘
 ```
 
 ---
 
 # 🚀 Enterprise Expertise
 
-## ERP & Business Platforms
+## ERP & Enterprise Platforms
+
 - Nebim V3
 - Logo ERP
 - Odoo
 - Link ERP
 - ERP Integrations
-- Accounting & HR Systems
+- ERP Migration
+- Legacy System Modernization
+- API Gateway Design
 - Warehouse & Inventory Automation
-- API Integration Projects
+- Accounting & HR Integrations
+- Enterprise Automation
 
 ## Commerce
+
 - OpenCart
 - nopCommerce
 - B2B Platforms
 - Marketplace Integrations
-- Inventory & Price Synchronization
 - Order Automation
+- Inventory Synchronization
+- Price Synchronization
 
 ## Manufacturing
+
 - Automotive Industry
 - Textile Industry
 - Validation Laboratories
@@ -61,6 +67,7 @@ Trading ───┘
 - Process Digitalization
 
 ## Financial Engineering
+
 - Algorithmic Trading
 - Multi-Exchange Infrastructure
 - Signal Engines
@@ -68,20 +75,25 @@ Trading ───┘
 - Market Data Processing
 
 ## Artificial Intelligence
+
 - ML.NET
+- Predictive Analytics
+- Intelligent Automation
 - Decision Support Systems
-- Predictive Models
-- AI Automation
-- Intelligent Workflows
+- AI-Assisted Development
+- Prompt Engineering
+- MCP Ecosystems
 
 ---
 
-# ⚙️ Technology Stack
+# 🛠️ Technology Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,html,css"/></p>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,html,css"/>
 
 ### Backend
+
 - .NET 8
 - ASP.NET Core
 - Web API
@@ -90,17 +102,68 @@ Trading ───┘
 - REST APIs
 
 ### Database
+
 - SQL Server
 - Redis
 
 ### Infrastructure
-<p><img src="https://skillicons.dev/icons?i=docker,debian,linux,github,githubactions,nginx,redis,vscode,visualstudio"/></p>
 
-- Docker Compose
-- Debian Servers
-- Linux Administration
+<img src="https://skillicons.dev/icons?i=docker,debian,linux,github,githubactions,nginx,redis,vscode,visualstudio"/>
+
+- Docker & Docker Compose
+- Debian / Linux Administration
 - Self-Hosted GitHub Runners
 - CI/CD Pipelines
+- Reverse Proxy
+- Service Monitoring
+- Server Automation
+
+---
+
+# 🤖 AI Development Environment
+
+### Developer Tooling
+
+- Cursor IDE
+- GitHub Copilot
+- MCP Servers
+  - Filesystem
+  - Playwright
+  - Context7
+  - Fetch
+  - Sequential Thinking
+- AI Code Review
+- Automated Documentation
+
+---
+
+# ⭐ Featured Projects
+
+## Enterprise
+
+- Nebim ERP Integrations
+- Logo ERP Integrations
+- Odoo Research & Evaluation
+- ERP ↔ OpenCart Bridge
+- ERP ↔ nopCommerce Bridge
+
+## Artificial Intelligence
+
+- ML.NET Prediction Models
+- MCP Server Infrastructure
+- AI Developer Workflows
+
+## Finance
+
+- Multi-Exchange Trading Platform
+- Quantitative Analysis Engine
+- Market Scanner
+
+## Industrial
+
+- Automotive Manufacturing Systems
+- Validation Laboratory Solutions
+- Production KPI Platform
 
 ---
 
@@ -120,13 +183,14 @@ Repeat();
 # 🎯 Current Focus
 
 - Enterprise Architecture
-- ERP Integration Ecosystems
-- AI & ML.NET
-- MCP Servers
+- ERP Integration Platforms
+- AI Engineering
+- MCP Ecosystems
 - Docker & Debian Infrastructure
 - High Performance .NET
 - Manufacturing Digitalization
-- Trading Infrastructure
+- Algorithmic Trading
+- Technical Leadership
 
 ---
 
